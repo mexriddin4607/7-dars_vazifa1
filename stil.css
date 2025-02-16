@@ -1,0 +1,21 @@
+ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Markazga olish */
+  
+}
+.none{
+    list-style: none;
+}
+img{
+    width: 45px;
+}
+.words{
+    word-spacing: 20px;
+}
+.red{
+    color: red;
+}
+.satr1{
+   color: red; font-weight: bold; text-transform: uppercase;        
+}
